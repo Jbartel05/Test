@@ -2,14 +2,13 @@
 
 ### Apartado A
 
-klk
+Codigo:
+ <html>
+      <head>
+      </head>
+    </html>
 
-<ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ol>
+
 
 ### Apartado B
 
