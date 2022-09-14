@@ -3,12 +3,12 @@
 ### Apartado A
 
 Codigo:
- ···
+ ***
   <html>
       <head>
       </head>
     </html>
- ···
+ ***
 
 ### Apartado B
 
