@@ -9,7 +9,7 @@ Codigo:
       </head>
     </html>  
  
- Ese es un codigo ``HTML´´! no ``PHP´´...
+ Ese es un codigo ``HTML``! no ``PHP``...
 
 ### Apartado B
 
